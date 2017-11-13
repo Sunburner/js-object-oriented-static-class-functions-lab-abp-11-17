@@ -1,5 +1,5 @@
 'use strict';
 
-class // QUESTION: {
-  
+class question{
+ constructor()
 }
