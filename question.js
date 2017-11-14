@@ -14,7 +14,7 @@ class Question {
     return this._All;
   }
   static Find(id){
-    this.All()[id - 1]
+    return this.All()[id - 1]
   }
 }
 
