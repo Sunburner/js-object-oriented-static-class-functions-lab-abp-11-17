@@ -17,4 +17,3 @@ class Question {
 
 Question._All =[]
 
-let newQuestion = new Question(`How much wood could a woodchuck chuck?`)
